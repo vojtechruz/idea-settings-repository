@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/vojtechruz/website.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vojtechruz/springfox-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\projects\pyladies\tridy-a-dedicnost" />
+    <option name="cloneParentDir" value="C:\projects\springfox" />
   </component>
 </application>
