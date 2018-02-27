@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="4-rozdel-moduly-reseni.py" type="PLAIN_TEXT" />
+      <mapping pattern="feed" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
