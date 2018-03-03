@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="4-rozdel-moduly-reseni.py" type="PLAIN_TEXT" />
       <mapping pattern="feed" type="PLAIN_TEXT" />
+      <mapping pattern="jshell" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
