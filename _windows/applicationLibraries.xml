@@ -1,0 +1,45 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.6 (pyladies-7) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32" />
+        <root url="file://C:/projects/pyladies/pyladies-7/venv" />
+        <root url="file://C:/projects/pyladies/pyladies-7/venv/Lib/site-packages" />
+        <root url="jar://C:/projects/pyladies/pyladies-7/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/" />
+        <root url="file://C:/projects/pyladies/pyladies-7/venv/Lib/site-packages/pip-9.0.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/1253095596" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32" />
+        <root url="file://C:/projects/pyladies/pyladies-7/venv" />
+        <root url="file://C:/projects/pyladies/pyladies-7/venv/Lib/site-packages" />
+        <root url="jar://C:/projects/pyladies/pyladies-7/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/" />
+        <root url="file://C:/projects/pyladies/pyladies-7/venv/Lib/site-packages/pip-9.0.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/1253095596" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
